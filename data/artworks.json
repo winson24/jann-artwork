@@ -7,6 +7,15 @@
   ],
   "artworks": [
     {
+      "id": 1780298123268,
+      "image": "https://raw.githubusercontent.com/winson24/jann-artwork/master/images/artwork_1780298121144.jpg",
+      "title": "floor plan",
+      "description": "",
+      "date": "June 1, 2026",
+      "ownership": "JANN G. ARTWORK",
+      "folder": "Unassigned"
+    },
+    {
       "id": 1780289412396,
       "image": "https://raw.githubusercontent.com/winson24/jann-artwork/master/images/artwork_1780289381968.jpg",
       "title": "Baby",
