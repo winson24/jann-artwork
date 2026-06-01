@@ -6,7 +6,7 @@ const CONFIG = {
     IMGBB_API_KEY: "425cd153d4752002c46373adf472529f",
 
     // GitHub username
-    GITHUB_USERNAME: "winson24",
+    GITHUB_USERNAME: "winson20",
 
     // GitHub repository name
     GITHUB_REPO: "jann-artwork",
